@@ -16,7 +16,7 @@
 
 ### Technologies
 * ![Python](python.png)
-* ![Flask](flask.png)
+* ![Flask](flaskblog/static/profile_pics/flask.png)
 * ![SQLAlchemy](SQLAlchemy.png)
 * ![HTML](html.png), ![CSS](css.png)
 * ![Bootstrap](flaskblog/static/profile_pics/bootstrap.png)
