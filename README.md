@@ -75,8 +75,8 @@ You can also simply open an issue with the tag "enhancement". Don't forget to gi
 
 ### Contact
 
-Rawan Shoaib-[Gmail](rawanwalid978@gmail.com)-[LinkedIn](https://www.linkedin.com/in/rawan-shoaib-a00471242)
-Project Link: (https://github.com/RawanAhmed444/Blog-Web-App.git)
+* Rawan Shoaib-(rawanwalid978@gmail.com)-(https://www.linkedin.com/in/rawan-shoaib-a00471242)
+* Project Link: (https://github.com/RawanAhmed444/Blog-Web-App.git)
 
 ### Acknowledgments
 
