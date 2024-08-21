@@ -20,10 +20,10 @@
 * ![SQLAlchemy](flaskblog/static/profile_pics/SQLAlchemy.png)
 * ![HTML](flaskblog/static/profile_pics/html.png), ![CSS](flaskblog/static/profile_pics/css.png)
 * ![Bootstrap](flaskblog/static/profile_pics/bootstrap.png)
-* bcrypt
-* Flask-Login
-* Flask-WTF
-* Flask-Mail
+* [bcrypt](https://pypi.org/project/bcrypt/)
+* [Flask-Login](https://pypi.org/project/Flask-Login/)
+* [Flask-WTF](https://pypi.org/project/Flask-WTF/)
+* [Flask-Mail](https://pypi.org/project/Flask-Mail/)
 
 ### Installation
 
