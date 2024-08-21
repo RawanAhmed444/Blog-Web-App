@@ -17,7 +17,7 @@
 ### Technologies
 * ![Python](python.png)
 * ![Flask](flaskblog/static/profile_pics/flask.png)
-* ![SQLAlchemy](SQLAlchemy.png)
+* ![SQLAlchemy](flaskblog/static/profile_pics/SQLAlchemy.png)
 * ![HTML](flaskblog/static/profile_pics/html.png), ![CSS](css.png)
 * ![Bootstrap](flaskblog/static/profile_pics/bootstrap.png)
 * bcrypt
