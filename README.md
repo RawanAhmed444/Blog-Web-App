@@ -15,10 +15,10 @@
   * Post categorization and pantigation.
 
 ### Technologies
-* ![Python](python.png)
+* ![Python](flaskblog/static/profile_pics/python.png)
 * ![Flask](flaskblog/static/profile_pics/flask.png)
 * ![SQLAlchemy](flaskblog/static/profile_pics/SQLAlchemy.png)
-* ![HTML](flaskblog/static/profile_pics/html.png), ![CSS](css.png)
+* ![HTML](flaskblog/static/profile_pics/html.png), ![CSS](flaskblog/static/profile_pics/css.png)
 * ![Bootstrap](flaskblog/static/profile_pics/bootstrap.png)
 * bcrypt
 * Flask-Login
