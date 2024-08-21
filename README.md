@@ -19,7 +19,7 @@
 * ![Flask](flask.png)
 * ![SQLAlchemy](SQLAlchemy.png)
 * ![HTML](html.png), ![CSS](css.png)
-* ![Bootstrap](bootstrap.png)
+* ![Bootstrap](flaskblog/static/profile_pics/bootstrap.png)
 * bcrypt
 * Flask-Login
 * Flask-WTF
