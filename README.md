@@ -15,11 +15,11 @@
  
 ### Screenshots
 
-* **Homepage:** [![image](https://github.com/user-attachments/assets/8702240a-5bc8-4528-8d75-6f0f1d051edf)]
-* **Login Page** [![image](https://github.com/user-attachments/assets/d532157b-403f-4448-ba94-2fd13e722bc6)]
-* **Register Page:** [![image](https://github.com/user-attachments/assets/34653205-f8f6-4572-8911-4f39944ff42e)]
-* **Blog Post Creation Page:** [![image](https://github.com/user-attachments/assets/c79d03bd-c5c8-458f-8281-849ad73e2fe8)]
-* **Reset Password Page:** [![image](https://github.com/user-attachments/assets/79e59ef5-72bc-4d36-86d0-004ad1002407)]
+* **Homepage:** ![image](https://github.com/user-attachments/assets/8702240a-5bc8-4528-8d75-6f0f1d051edf)
+* **Login Page** ![image](https://github.com/user-attachments/assets/d532157b-403f-4448-ba94-2fd13e722bc6)
+* **Register Page:** ![image](https://github.com/user-attachments/assets/34653205-f8f6-4572-8911-4f39944ff42e)
+* **Blog Post Creation Page:** ![image](https://github.com/user-attachments/assets/c79d03bd-c5c8-458f-8281-849ad73e2fe8)
+* **Reset Password Page:** ![image](https://github.com/user-attachments/assets/79e59ef5-72bc-4d36-86d0-004ad1002407)
 
 ### Technologies
 * ![Python](flaskblog/static/profile_pics/python.png)
