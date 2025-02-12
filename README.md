@@ -1,4 +1,4 @@
-# Blog Web Application
+# Blog Website
 
 #### Description: This project is a blog web application built using Python and Flask. It allows users to create accounts, manage their profiles, and write blog posts.
 
